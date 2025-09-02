@@ -1,0 +1,9 @@
+
+<snippet>
+    <content><![CDATA[
+dato ${1:nombreVariable} = ${2:"valor"}
+]]></content>
+    <tabTrigger>dato</tabTrigger>
+    <scope>source.luc</scope>
+    <description>Define una nueva variable de estado</description>
+</snippet>

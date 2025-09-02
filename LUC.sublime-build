@@ -1,0 +1,10 @@
+{
+    "cmd": ["/usr/bin/python3", "/ruta/completa/a/tu/navegador.py", "$file"],
+    "selector": "source.luc",
+    "windows": {
+        "cmd": ["python.exe", "/ruta/completa/a/tu/navegador.py", "$file"]
+    },
+    "osx": {
+        "cmd": ["/usr/bin/python3", "/ruta/completa/a/tu/navegador.py", "$file"]
+    }
+}
